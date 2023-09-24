@@ -1,0 +1,9 @@
+git branch-> untuk melihat branch 
+git commit-> untuk mengcommit apa pun yang kita buat 
+git commit -am -> untuk mengcommit secara langsung jika hanya merubah isi file!
+git checkout-> untuk kembali ke cmmit tertentu mengunakan alamat bash 
+git branch -d (nama branch)-> ini untuk menghapus branch
+git branch --merged-> untuk melihat branch mana yang sudah di merge 
+git merge-> untuk menggabungkan branch
+alias('prompt')-> untuk membuat short hand
+alias graph="git log --all --decorate --graph"->untuk membuat shorthand graph

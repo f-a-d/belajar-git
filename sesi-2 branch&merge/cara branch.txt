@@ -1,0 +1,2 @@
+setelah mengcommit semua file yang ada  dan ingin embuat branch bisa menggunakan prompt :
+    - git branch (nama branch-nya)
